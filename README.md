@@ -53,11 +53,5 @@ The project implements, tests, and compares several state-of-the-art hiding heur
 ---
 
 ## Citation
-* If you reference or build upon the concepts, analysis, or the C3R heuristic from this repository, please cite the dissertation report:
-@mastersthesis{Sen2026Adversarial,
-  author       = {Siddhartha Sen},
-  title        = {Analysis of existing heuristics and implementing a new obfuscation method for hiding influential individuals in community networks},
-  school       = {St. Xavier's College (Autonomous), Kolkata \& TCG CREST},
-  year         = {2026},
-  type         = {M.Sc. Dissertation}
-}
+* If you reference or build upon the concepts, analysis, or the C3R heuristic from this repository, please cite the dissertation report.
+---
