@@ -53,5 +53,5 @@ The project implements, tests, and compares several state-of-the-art hiding heur
 ---
 
 ## Citation
-* If you reference or build upon the concepts, analysis, or the C3R heuristic from this repository, please cite the dissertation report.
+* If you reference or build upon the concepts, analysis, or the C3R heuristic from this repository, please cite the repository and the dissertation report.
 ---
