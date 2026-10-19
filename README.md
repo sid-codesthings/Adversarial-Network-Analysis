@@ -39,7 +39,7 @@ The project implements, tests, and compares several state-of-the-art hiding heur
 ## 📊 Summary of Key Findings
 * Tested on benchmark networks including the **9/11 Terrorist Attack Network** (36 nodes, 64 edges) and a fragmented subset of the **SNAP Ego-Facebook Network** (333 nodes, 2978 edges).
 * **Centrality Trade-offs:** Results confirm that targeted link rewiring successfully degrades the global ranking sum of mastermind nodes, making them significantly harder to spotlight via standard automated pipelines.
-* **Cascade Dynamics:** Simulations consistently demonstrate a drop in IC influence values and a rise in LT structural resistance across iterations, validating theoretical expectations that influence containment increases safety from tracking.
+* **Cascade Dynamics:** Simulations consistently demonstrate a drop in IC influence values and a rise in LT structural resistance across iterations. This confirms the theory that containing influence makes it harder to track the source.
 
 ---
 
